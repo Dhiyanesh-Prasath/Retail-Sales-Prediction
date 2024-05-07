@@ -1,4 +1,4 @@
-# Grocery Sales Forecasting
+# Retail Sales Forecasting
 
 # Abstract
 
